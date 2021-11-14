@@ -1,6 +1,6 @@
 # Getting Started with Heavenly-Touch
 
-This project was bootstrapped with [Heavenly-Touch](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Heavenly-Touch](https://heavenly-touch.web.app/).
 
 ## Some Advantages
 1. This is a tourism related website.
