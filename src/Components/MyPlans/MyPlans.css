@@ -1,0 +1,8 @@
+.order{
+    box-shadow: 5px 5px 5px 5px gray;
+    width: 370px;
+    height: 770px;
+    text-align: center;
+    margin: 5px;
+    padding: 3px;
+}
