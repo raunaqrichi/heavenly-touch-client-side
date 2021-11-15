@@ -28,10 +28,10 @@ const handleGoogleLogIn = () => {
     
     return (
         <div>
-            <div className='w-50 mx-auto card'>
+            <div className='w-50 mx-auto title my-3'>
              <Image src = {image} fluid />
              <h1 className='title'>Please Login With Google </h1>
-                <Button onClick={handleGoogleLogIn} variant='outline-secondary' className='btn btn-secondary text-white w-50 mx-auto p-5'> Google Sign-in
+                <Button onClick={handleGoogleLogIn} variant='outline-secondary' className='btn btn-secondary text-white w-50 mx-auto p-2'> Google Sign-in
                 </Button>
 
             </div>
