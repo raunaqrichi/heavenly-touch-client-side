@@ -12,7 +12,7 @@ const AllPlans = () => {
         .then (data => setPlans(data))
     } ,[])
     return(
-        <div>
+        <div className='container'>
             <div className='row'>
                 {plans?.map((pd) =>(
                     <div className='col-md-4 card'>
