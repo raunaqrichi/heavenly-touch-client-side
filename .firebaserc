@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "heavenly-touch"
+  },
+   "targets": {
+    "slippers-react": {
+      "hosting": {
+        "app": [
+          "slippers-react"
+        ]
+      }
+    }
   }
 }
